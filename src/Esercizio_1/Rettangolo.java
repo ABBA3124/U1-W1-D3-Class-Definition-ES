@@ -1,3 +1,5 @@
+package Esercizio_1;
+
 public class Rettangolo {
     //attributi privati per incapsulamento
     private double altezza;
